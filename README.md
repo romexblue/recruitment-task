@@ -18,7 +18,13 @@ You need **Node.js** installed on your machine.
 
 ### Installation
 
-1.  **Install dependencies** using your preferred package manager:
+1.  **Clone the repository** (replace `[https://github.com/romexblue/recruitment-task.git]` with the actual link):
+    ```bash
+    git clone [https://github.com/romexblue/recruitment-task.git]
+    cd recruitment-task
+    ```
+
+2.  **Install dependencies** using your preferred package manager:
     ```bash
     npm install
     # OR
