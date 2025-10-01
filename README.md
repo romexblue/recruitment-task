@@ -1,8 +1,10 @@
 # recruitment-task: Data Output Viewer
 
+**Live Deployment:** [https://recruitment-task-xi.vercel.app/]
+
 This project is a minimal React + TypeScript + Vite frontend designed to display the results of the `recruitment-task` data processing logic.
 
-It visualizes the two main entities—**Inspections** and **Failure Reports**—along with a **Summary** and any **Failed Messages** in an organized, scrollable table format.
+It visualizes the two main entities, **Inspections** and **Failure Reports**, along with a **Summary** and any **Failed Messages** in an organized, scrollable table format.
 
 ---
 
@@ -40,7 +42,7 @@ You need **Node.js** installed on your machine.
 
 ---
 
-## 🧪 Testing
+## Testing
 
 This project uses **Jest** for automated unit testing, which covers the core data parsing and classification logic (the rules from the recruitment instructions).
 
